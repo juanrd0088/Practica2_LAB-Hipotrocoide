@@ -1,0 +1,3 @@
+OJO
+Falta el normalize e invocarlo, creo que se le invoca en el draw.
+El resultado debe ser q se oscurece por los lados

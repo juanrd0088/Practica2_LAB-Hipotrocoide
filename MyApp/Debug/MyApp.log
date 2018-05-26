@@ -1,0 +1,4 @@
+﻿  Mesh.cpp
+c:\users\jramosdi.nsn-intra\desktop\practica2_lab\myapp\mesh.cpp(476): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+c:\users\jramosdi.nsn-intra\desktop\practica2_lab\myapp\mesh.cpp(480): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  MyApp.vcxproj -> C:\Users\jramosdi.NSN-INTRA\Desktop\Practica2_LAB\bin\MyAppDebug.exe
